@@ -92,3 +92,22 @@ Row-wise accuracy
 Retrieval performance metrics (NDCG, MRR)
 
 For detailed performance analysis, please refer to our paper.
+
+## Citation
+Please kindly cite the following paper if you found our benchmark helpful!
+
+```
+@misc{yu2025wximpactbenchdisruptiveweatherimpact,
+      title={WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for Evaluating Large Language Models}, 
+      author={Yongan Yu and Qingchen Hu and Xianda Du and Jiayin Wang and Fengran Mo and Renee Sieber},
+      year={2025},
+      eprint={2505.20249},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.20249}, 
+}
+```
+
+## Miscellaneous
+
+Please send any questions about the resources to yongan.yu@mail.mcgill.ca
