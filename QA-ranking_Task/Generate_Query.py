@@ -16,8 +16,8 @@ def create_prompt(row):
         impacts.append('infrastructure')
     if row['Political Impact'] > 0:
         impacts.append('political')
-    if row['Economic Impact'] > 0:
-        impacts.append('economic')
+    if row['Financial Impact'] > 0:
+        impacts.append('financial')
     if row['Ecological Impact'] > 0:
         impacts.append('ecological')
     if row['Agricultural Impact'] > 0:

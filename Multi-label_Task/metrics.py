@@ -4,7 +4,7 @@ import os
 impact_columns = [
     "Infrastructural impact", 
     "Political impact", 
-    "Economic impact", 
+    "Financial impact", 
     "Ecological impact", 
     "Agricultural impact", 
     "Human health impact"
