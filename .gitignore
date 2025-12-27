@@ -3,3 +3,19 @@ venv/
 __pycache__/
 *.csv/
 .env
+datasets/historical.csv
+datasets/modern.csv
+datasets/OCR Corrected files
+fasttext/wiki-news-300d-1M-subword.vec
+fasttext/wiki-news-300d-1M-subword.vec.zip
+.DS_Store
+.DS_Store
+datasets/historical_regex_cleaned.csv
+OUT.txt
+datasets/modern_regex_cleaned.csv
+.DS_Store
+*.csv
+datasets/historical_checkpoint.txt
+datasets/modern_checkpoint.txt
+PROGRESSION_historical.txt
+PROGRESSION_modern.txt
