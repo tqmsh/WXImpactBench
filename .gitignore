@@ -19,3 +19,4 @@ datasets/historical_checkpoint.txt
 datasets/modern_checkpoint.txt
 PROGRESSION_historical.txt
 PROGRESSION_modern.txt
+*.md
